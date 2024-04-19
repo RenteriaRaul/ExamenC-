@@ -5,3 +5,10 @@ C:\Proyectos\Ejercicios.NET\Curso.net-core\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\bin\D
 C:\Proyectos\Ejercicios.NET\Curso.net-core\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\bin\Debug\NUMEROPAR_IMPAR.pdb
 C:\Proyectos\Ejercicios.NET\Curso.net-core\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.exe
 C:\Proyectos\Ejercicios.NET\Curso.net-core\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.pdb
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\bin\Debug\NUMEROPAR_IMPAR.exe.config
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\bin\Debug\NUMEROPAR_IMPAR.exe
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\bin\Debug\NUMEROPAR_IMPAR.pdb
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.csproj.AssemblyReference.cache
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.csproj.CoreCompileInputs.cache
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.exe
+C:\Proyectos\adtek-rh-g4\Examenes\ExamenC-\NUMEROPAR_IMPAR\NUMEROPAR_IMPAR\obj\Debug\NUMEROPAR_IMPAR.pdb

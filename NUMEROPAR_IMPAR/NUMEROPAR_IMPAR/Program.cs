@@ -11,17 +11,20 @@ namespace NUMEROPAR_IMPAR
         static void Main(string[] args)
         {
 
-            int num = 23;
+            int num = 0;
+            Console.Write("Escribe un numero: ");
+            num = int.Parse(Console.ReadLine());
 
-            //Comprobamos si num es un número par o no
-            if ((num % 2) == 0)
-            {
-                Console.WriteLine("El numero {0} es par", num);//Es un número par
-            }
-            else
-            {
-                Console.WriteLine("El numero {0} es: impar", num); //Es un número impar
-            }
+          
+                //Comprobamos si num es un número par o no
+                if ((num % 2) == 0)
+                {
+                    Console.WriteLine("El numero {0} es par", num);//Es un número par
+                }
+                else
+                {
+                    Console.WriteLine("El numero {0} es: impar", num); //Es un número impar
+                }
 
             
             Console.ReadLine();
